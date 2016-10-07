@@ -1,0 +1,42 @@
+{
+	"name": "kaoscript-language",
+	"displayName": "Kaoscript Language",
+	"description": "kaoscript language integration for VS Code",
+	"publisher": "kaoscript",
+	"license": "MIT",
+	"galleryBanner": {
+		"color": "#5c2d91",
+		"theme": "dark"
+	},
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Languages"
+	],
+	"keywords": [
+		"grammar",
+		"language",
+		"syntax",
+		"kaoscript"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "kaoscript",
+				"extensions": [
+					".ks"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "kaoscript",
+				"scopeName": "source.ks",
+				"path": "./syntaxes/kaoscript.tmLanguage"
+			}
+		]
+	}
+}
