@@ -38,5 +38,17 @@
 				"path": "./syntaxes/kaoscript.tmLanguage"
 			}
 		]
+	},
+	"homepage": "https://github.com/kaoscript/highlight-vscode",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kaoscript/highlight-vscode.git"
+	},
+	"bugs": {
+		"url": "https://github.com/kaoscript/highlight-vscode/issues"
+	},
+	"author": {
+		"name": "Baptiste Augrain",
+		"email": "daiyam@zokugun.org"
 	}
 }
