@@ -1,0 +1,11 @@
+*
+*/**
+**/.DS_Store
+!CHANGELOG.md
+!icon.png
+!package.json
+!LICENSE
+!README.md
+!out/*
+!settings/kaoscript-configuration.json
+!syntaxes/kaoscript.tmLanguage
