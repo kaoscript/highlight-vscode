@@ -2,7 +2,7 @@
 	"name": "kaoscript-language",
 	"displayName": "Kaoscript Language",
 	"description": "kaoscript language integration for VS Code",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"publisher": "kaoscript",
 	"homepage": "https://github.com/kaoscript/highlight-vscode",
 	"repository": {
