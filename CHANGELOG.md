@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.2 | 2019-05-29
+
+- Fix `do/while` and `do/until` blocks
+- Fix usage of a keyword as a variable name
+
 ## v0.2.1 | 2019-05-28
 
 - Support new operators (`/.`, `^^`, `->`)
