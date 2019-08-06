@@ -1,5 +1,27 @@
 # Changelog
 
+## v0.3.0 | 2019-08-06
+
+- Add destructuring assignment in expression and as value in loops
+- Inverse position of key, value in `for..of`, now: `for value, key of ...`
+- Support destructor
+- Support expression as import argument
+- Support function with breaking lines
+- Support class field aliases
+- Support required parameter modifier
+- Improve destructuring
+- Improve attributes
+- Improve macro
+- Update attributes
+- Rename import modifier `seep` to `require`
+- Fix multi-lines expression
+- Fix typing
+- Fix destructor
+- Fix comments
+- Fix ternary operator
+- Fix disclose
+- Fix casting
+
 ## v0.2.2 | 2019-05-29
 
 - Fix `do/while` and `do/until` blocks
